@@ -6,6 +6,7 @@ Fig1C_data.npz
 Fig1C_plot.py
 Fig1D_data_t300.dat
 Fig1D_data_t600.dat
+
 Fig1D_data_t1000.dat
 Fig1D_fit.py
 Fig1D_data_k.dat
