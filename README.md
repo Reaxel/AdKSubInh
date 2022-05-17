@@ -2,31 +2,30 @@
 
 #### Fig1: data and scripts for plotting Figure 1
 
-Fig1C_data.npz
-
-Fig1C_plot.py
-Fig1D_data_t300.dat
-Fig1D_data_t600.dat
-Fig1D_data_t1000.dat
-Fig1D_fit.py
-Fig1D_data_k.dat
+Fig1C_data.npz  
+Fig1C_plot.py  
+Fig1D_data_t300.dat  
+Fig1D_data_t600.dat  
+Fig1D_data_t1000.dat  
+Fig1D_fit.py  
+Fig1D_data_k.dat  
 Fig1D_plot.py
 
 #### Fig2: data and scripts for plotting Figure 2
 
-Fig2A_data.npz
-Fig2B_data.npz
-Fig2AB_plot.py
-Fig2CDEF_data_p0.008.dat
-Fig2CDEF_data_p0.019.dat
-Fig2CDEF_data_p0.119.dat
-Fig2CDEF_data_p0.283.dat
-Fig2CDEF_data_p0.581.dat
-Fig2CDEF_data_p0.775.dat
-Fig2CDEF_data_p0.994.dat
-Fig2CDEF_fit.py
-Fig2CDEF_data_k.dat
-Fig2CDEF_plot.py
+Fig2A_data.npz  
+Fig2B_data.npz  
+Fig2AB_plot.py  
+Fig2CDEF_data_p0.008.dat  
+Fig2CDEF_data_p0.019.dat  
+Fig2CDEF_data_p0.119.dat  
+Fig2CDEF_data_p0.283.dat  
+Fig2CDEF_data_p0.581.dat  
+Fig2CDEF_data_p0.775.dat  
+Fig2CDEF_data_p0.994.dat  
+Fig2CDEF_fit.py  
+Fig2CDEF_data_k.dat  
+Fig2CDEF_plot.py 
 
 #### Fig3: data and scripts for plotting Figure 3
 
