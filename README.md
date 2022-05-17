@@ -29,46 +29,46 @@ Fig2CDEF_plot.py
 
 #### Fig3: data and scripts for plotting Figure 3
 
-Fig3A_data_dv0.npz
-Fig3A_data_dv14.npz
-Fig3A_data_dv16.npz
-Fig3A_plot.py
-Fig3B_data_dv0.npz
-Fig3B_data_dv14.npz
-Fig3B_data_dv16.npz
-Fig3B_plot.py
-Fig3C_data.npz
+Fig3A_data_dv0.npz  
+Fig3A_data_dv14.npz  
+Fig3A_data_dv16.npz  
+Fig3A_plot.py  
+Fig3B_data_dv0.npz  
+Fig3B_data_dv14.npz  
+Fig3B_data_dv16.npz  
+Fig3B_plot.py  
+Fig3C_data.npz  
 Fig3C_plot.py
 
 #### Fig4: structures, data and scripts for plotting Figure 4
 
-1ake.pdb
-DD_1AKE_MG_native.pdb
-TD_1AKE_MG_native.pdb
-MD_1AKE_MG_native.pdb
-draw_links.py
-set_view.pml
-draw_links_DD_1AKE_MG_native_ligs.pml
-draw_links_TD_1AKE_MG_native_ligs.pml
+1ake.pdb  
+DD_1AKE_MG_native.pdb  
+TD_1AKE_MG_native.pdb  
+MD_1AKE_MG_native.pdb  
+draw_links.py  
+set_view.pml  
+draw_links_DD_1AKE_MG_native_ligs.pml  
+draw_links_TD_1AKE_MG_native_ligs.pml  
 draw_links_MD_1AKE_MG_native_ligs.pml
 
 #### Fig5: data and scripts for plotting Figure 5
 
-Fig5_data_DD.npz
-Fig5_data_TD.npz
-Fig5_data_MD.npz
+Fig5_data_DD.npz  
+Fig5_data_TD.npz  
+Fig5_data_MD.npz  
 Fig5_plot.py
 
 #### Fig6: data and scripts for plotting Figure 6
 
-Fig6A_data_m1000.npz
-Fig6A_data_m200.npz
-Fig6A_data_m44.npz
-Fig6A_plot.py
-Fig6B_data_m1000.npz
-Fig6B_data_m200.npz
-Fig6B_data_m44.npz
-Fig6C_data_m1000.npz
-Fig6C_data_m200.npz
-Fig6C_data_m44.npz
+Fig6A_data_m1000.npz  
+Fig6A_data_m200.npz  
+Fig6A_data_m44.npz  
+Fig6A_plot.py  
+Fig6B_data_m1000.npz   
+Fig6B_data_m200.npz  
+Fig6B_data_m44.npz  
+Fig6C_data_m1000.npz  
+Fig6C_data_m200.npz  
+Fig6C_data_m44.npz  
 Fig6BC_plot.py
